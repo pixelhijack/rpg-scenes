@@ -1,0 +1,21 @@
+# Decimus Valoris
+
+A neved Valoris. Amióta az eszedet tudod, elégedetlen voltál – a legnagyobb kihívásod uralkodni a kritikus érzéseiden. Fáradhatatlan maximalizmussal gyakoroltad mindig is a másfélkezes pallos forgatását a mesteretekkel, Domus Excilioval, ittad a szavait minden tudásról, és a legjobb akartál lenni a corpusodban. Az öreg prefektus tud a türelmetlenségedről, rengeteget korholt is érte, lassan húsz éve próbálja visszafogni nyughatatlan farkasszíved.
+
+Ikertestvéred, Vortis talán az egyetlen, akiben feltétel nélkül bízol és néha a szobáitok mélyén suttogva megbeszéltek mindent – legalábbis majdnem mindent. Sokszor van olyan érzésed, mintha nem ott lenne, vagy láthatatlan dolgokra figyelne, belső hangokra hallgatna, a Fellegvár kísérteteire, amivel gyerekként ijesztgettek titeket, összerezzenve ha rászólsz. Mintha titkolna valamit, még előtted is, és ez igazán nagy felháborodással tölt el, hiszen ti egyek vagytok. Örök versengés van köztetek, amibe úgy érzed, corpusotok harmadik tagja, a nálatok pár évvel idősebb és erősebb Gladius nem fér bele. Gladius nagyon jó harcos, de puha szívű, ezt persze sosem mondtátok neki, de félsz hogy egyszer hezitálása, kétségei a veszteteket fogják okozni. Úgy érzed, nem biztos hogy Inkvizítornak való emiatt, de mikor új praetorotok, akit pár holdhónapja neveztek ki a vezetésetekre erről kérdezett, nem mondtál neki semmit, kiálltál Gladius mellett, elvégre ő is vértestvéretek. “Családotok a Fellegvár és vértestvéreitek a pallosok mögött, atyátok az Egyetlen Isten, anyátok sosem volt” – tanították nektek az Inkvizíció elöljárói.
+
+Az új praetorban nem igazán bízol. Idősebb nálatok, ereje teljében, harcedzett és nagyon tapasztalt, ezt látod rajta. Szeretnél megfelelni neki, mivel fontos az előmeneteled az Inkvizícióban, úgy érzed hogy magas rangok várnak rád. De tudod, hogy őt bízták meg a ti betörésetekkel és irányításotokkal, márpedig sosem kedvelted az irányítást.
+
+Szeretnéd, ha az öreg prefektus, Domus Excilio elkísérhetne titeket minden bevetésre, bár ezt már tudod hogy nem lehetséges, és már szívesen töltenéd a következő őrjáratokat önállóan is a többi rangidős corpussal, ahogy eddig mesteretekkel csatlakozhattatok a Légionáriusok vonulásához néhanapján a Felsőváros rendezett utcáin és fő terein. Ezeket a pillanatokat nagyon várod, mert bár nem szabad kimondani, de hosszúak voltak a kiképzés évei és igencsak unod már a Fellegvár hideg, kihalt csarnokait, ahol a többi corpusbeli társaidon kívül csak az Inkvizíció rangosabb képviselőt és a papi konklávé tagjaival találkozhattál a szolgákon kívül. Déia Felsővárosának lakói, polgári házai, nyüzsgése viszont teljesen ámulatba ejt, fejed kavarog a látottaktól még mindig minden alkalommal, úgy érzed befogadni is alig bírod azt a bonyolultságot, amivel odakint zajlik az élet. A kedvenced a Belső Falakon történő őrjáratok voltak, ilyenkor szabadnak érzed magad mint a sirályok amiknek a rikoltásait messzire hozza a szél odalentről, és mert a nyaktörően magas Falról ellátni egészen a színes Felsővároson túlra, az Alsóváros girbe-gurba sötét utcáira (amikről csak a kantin közös étkezésein hallottál a rangidős őrjáratozóktól vad történeteket), és még tovább, a Kikötő füstös formáira is, ahol a hadiflotta hajóinak temérdek vitorlája és árbóca billeg a messzeségben, valahol nagyon messze lent.
+
+Minden vágyad hogy elhagyhasd végre a Fellegvárat és elkezdhesd a szolgálatot odakint.
+
+_[ Hajnal van, a rajtaütést elindító parancsig még van talán pár óra. Mit teszel? Vortis és Gladius corpusbeli testvéreiddel a szobátokban várakoztok. ]_
+
+@valoris
+
+### Valoris:
+
+_Hiszem azt, hogy a szent cél eléréséhez vezető út első valódi lépése lesz ez a bevetés, melynek során egyrészt pengémmel bizonyíthatom rátermettségemet, másrészt alkalmam nyílik a másvilágra küldeni egy olyan teremtményt aki a végső célunk - a birodalom békéjének és egységének fenntartását - gátolja. A gyilkolásban nem lelem örömömet, az túl gyarló is lenne, ugyanakkor elítélem azt aki akár egy szempillantást is haboz amikor a felsőbb céljainkat vérontással kell elérnünk._
+
+_Ennek szellemében a hátralévő időm nagyrészét elmém felkészítésével; imával és meditációval töltöm, maradék időmet pedig a fegyverem és felszereléseim tisztításával, rendezésével, hogy minden tökéletes legyen. Bár szóvá nem teszem, de társaimtól is ezt az alázatot várom el._
