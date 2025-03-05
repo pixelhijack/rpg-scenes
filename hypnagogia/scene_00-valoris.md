@@ -1,3 +1,5 @@
+@valoris
+
 # Decimus Valoris
 
 A neved Valoris. Amióta az eszedet tudod, elégedetlen voltál – a legnagyobb kihívásod uralkodni a kritikus érzéseiden. Fáradhatatlan maximalizmussal gyakoroltad mindig is a másfélkezes pallos forgatását a mesteretekkel, Domus Excilioval, ittad a szavait minden tudásról, és a legjobb akartál lenni a corpusodban. Az öreg prefektus tud a türelmetlenségedről, rengeteget korholt is érte, lassan húsz éve próbálja visszafogni nyughatatlan farkasszíved.
@@ -11,8 +13,6 @@ Szeretnéd, ha az öreg prefektus, Domus Excilio elkísérhetne titeket minden b
 Minden vágyad hogy elhagyhasd végre a Fellegvárat és elkezdhesd a szolgálatot odakint.
 
 _[ Hajnal van, a rajtaütést elindító parancsig még van talán pár óra. Mit teszel? Vortis és Gladius corpusbeli testvéreiddel a szobátokban várakoztok. ]_
-
-@valoris
 
 ### Valoris:
 

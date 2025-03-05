@@ -1,3 +1,5 @@
+@vortis
+
 # Decimus Vortis
 
 A neved Vortis. Amióta az eszedet tudod, úgy érezted, valami gond van veled. Fiatalon csak gyakran rádszólt az öreg prefektusotok, Domus Excilio, hogy ne álmodozz annyit, aztán egyszercsak mintha abbahagyta volna ezt egyik napról a másikra, és csak csendben, várakozóan hallgat, ahogy azóta is teszi sokszor - talán emiatt, de mindig megmagyarázhatatlan kettős érzéseid támadnak vele kapcsolatban, ahogy másoktól is. Nem érted, de a legnagyobb kihívásod, hogy titokban tartsd ezeket a különös belső hangokat. Fáradhatatlan maximalizmussal gyakoroltad mindig is a másfélkezes pallos forgatását a mesteretekkel, ittad a szavait minden tudásról, és a legjobb akartál lenni a corpusodban, de úgy érzed, ikertestvéred, Valoris mindig előtted jár egy lépéssel.

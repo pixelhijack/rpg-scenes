@@ -1,3 +1,5 @@
+@gladius
+
 # Octavus Gladius
 
 A neved Gladius. Inkvizítor vagy, amire mérhetetlen büszkeséggel tekintesz. Fáradhatatlan maximalizmussal gyakoroltad mindig is a másfélkezes pallos forgatását a mesteretekkel, Domus Excilioval, ittad a szavait minden tudásról, és a legjobb akartál lenni a corpusodban. Csak ő, az öreg prefektus tud a bizonytalanságaidról, látja rajtad, és ezt gyűlölöd. Mintha a lelkedbe látna. Az érzések, amiket senkinek sem mondasz el, az a különös, megmagyarázhatatlan hiány, mintha valamit elvettek volna tőled, mintha a dolgoknak máshogy kellene lenniük, mert valaha másképp voltak. És a rémálmaid, azok a visszatérő rémálmok, amikről még az öregnek sem igazán mertél mesélni, ahogy senki másnak sem: a viharos éjszaka, egy női sikoly, férfiak kiáltása, és az ismerős hang, “ennek így kell lennie”. Excilio atya mindig azt tanította, az álmok csak a bűnös vágyak és az eredendően romlott emberi lélek illúziói, amik az éjszaka sötétjében játszanak velünk, nem szabad őket komolyan venni. Szíved próbálod megkeményíteni hát, hogy az Inkvizíció Pallosként a Pátriárka ne csalódhasson benned, dühöd pedig elnyomni, hogy az ikreknek ez láthatóan könnyebben megy.
@@ -9,8 +11,6 @@ Az új praetortól, aki pár holdhónapja került corpusotok élére, tartasz. K
 Minden vágyad hogy elhagyhasd végre a Fellegvárat és elkezdhesd a szolgálatot odakint.
 
 _[ Hajnal van, a rajtaütést elindító parancsig még van talán pár óra. Mit teszel? Vortis és Valoris corpusbeli testvéreiddel a szobátokban várakoztok. ]_
-
-@gladius
 
 ### Gladius:
 

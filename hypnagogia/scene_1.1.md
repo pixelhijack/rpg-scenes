@@ -1,3 +1,5 @@
+@oculus @gladius @valoris @vortis @excilio
+
 # Első fejezet, első rész: Ébresztő, ébresztő!
 
 _INTRO:_
