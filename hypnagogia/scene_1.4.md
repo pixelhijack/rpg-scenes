@@ -63,39 +63,39 @@ Praetor Oculus ekkorra veszti el türelmét és Valorisra szegezett tekintettel,
 
 "VALORIS! Lépj előre és kezdd, onnantól, hogy elindultunk lefelé az Asmodeus-kapuhoz! Vortis és Gladius folytassa!"
 
-## Valoris:
+### Valoris:
 
 Határozottan előre lépek és higgadtan bár az események hatására még mindig feldúltan előadom mondandómat:
 
 Miután elvegyültünk a szentségtelen tömegben már suttogtak az inkvizíció jelenlétéről és a tétlenkedésnek hála nyíltan nekünk támadtak. Azt tettük, amit kellett és az Ő segedelmével győzelmet arattunk.
 
-## Gladius:
+### Gladius:
 
-- Amikor elindultunk, röviden egyeztettünk a Légió Centuriójával, de látszott, hogy pontosan értette a feladatot. Mielőtt megérkeztünk volna a térre, jó pár utcával korábban, a Légió leszakadt tőlünk a tervnek megfelelően a környező utcákat biztosították és várták a jelünket.
+_"Amikor elindultunk, röviden egyeztettünk a Légió Centuriójával, de látszott, hogy pontosan értette a feladatot. Mielőtt megérkeztünk volna a térre, jó pár utcával korábban, a Légió leszakadt tőlünk a tervnek megfelelően a környező utcákat biztosították és várták a jelünket."_
 
 Alig észrevehetően a hangom itt-ott megremeg, de ez nem köthető egy-egy eseményhez a leírásban, inkább egy általános feszültség a Preatort övező tiszteletet parancsoló és félelmet keltő aurának köszönhetően.
 
-- Mikor megérkeztünk szétváltunk, hogy körbevehessük a pulpitust és kevesebb feltűnést keltsünk. Próbáltunk előre furakodni, de ahogy közeledtem az emberek egyre inkább egy hatalmas húsmasszából készült fallá áltak össze, nem lehetett közelebb kerülni.
+_"Mikor megérkeztünk szétváltunk, hogy körbevehessük a pulpitust és kevesebb feltűnést keltsünk. Próbáltunk előre furakodni, de ahogy közeledtem az emberek egyre inkább egy hatalmas húsmasszából készült fallá áltak össze, nem lehetett közelebb kerülni."_
 
 Egy fél pillanatra megtorpan a beszámolóm, mérlegelve az eseményeket.
 
-- Valorisnak igaza van, valóban súgdolóztak az emberek, de én nem az inkvizícióról hallottam őket összesúgni, hanem egy gyülekezést emlegettek mellettem, a "mester" házában akartak gyülekezni ezek a hitetlenek ma este.
+_"Valorisnak igaza van, valóban súgdolóztak az emberek, de én nem az inkvizícióról hallottam őket összesúgni, hanem egy gyülekezést emlegettek mellettem, a "mester" házában akartak gyülekezni ezek a hitetlenek ma este."_
 
 A hangom eddigre már megszilárdul, a feszültségnek eddigre már nincs jele, tekintetem kissé üvegessé válik, ahogy próbálom felidézni az eseményeket.
 
-- Valoris jelt adott és kitört a káosz. Megindultunk a pulpitus felé az emberáradat ellen, akik csak menekülni akartak a térről, de reménytelen vállalkozás volt. Kis híján engem is elsodortak. A zűrzavarban szem elől tévesztettem a prédikátort, mire elült a por azonban elkapták az eretneket.
+_"Valoris jelt adott és kitört a káosz. Megindultunk a pulpitus felé az emberáradat ellen, akik csak menekülni akartak a térről, de reménytelen vállalkozás volt. Kis híján engem is elsodortak. A zűrzavarban szem elől tévesztettem a prédikátort, mire elült a por azonban elkapták az eretneket."_
 
 Ismét egy rövid hallgatás következik, majd félszegen folytatom. A bizonytalanság most csöpög viszont minden szavamból.
 
-- Bár nem így terveztük, de a legfontosabb feladatunkat elvégeztük és a szónokot elfogtuk. Sajnálatos a sok áldozat, de haláluk nem hiábavaló, Déia biztonságát segíti elő.
+_"Bár nem így terveztük, de a legfontosabb feladatunkat elvégeztük és a szónokot elfogtuk. Sajnálatos a sok áldozat, de haláluk nem hiábavaló, Déia biztonságát segíti elő."_
 
-## Oculus:
+### Oculus:
 
 Praetor Oculus figyelmesen hallgatja a mondottakat. Nem egy teljes leiratot készít, de jegyzetel írótollával az előtte lévő pergamenre, és tekintetét még írás közben is többnyire a jelentést tevőn tartva. A beszéd közben többször is bátorítóan bólint fejével, talán ellensúlyozandó a kissé feszült arcvonásait.
 
 Ahogy egymás után befejezitek, úgy vándorol tekintete a következő emberre. Ami most éppen Vortisra érkezett.
 
-## Vortis:
+### Vortis:
 
 A hallgatás végtelenül kínos pillanataiban egyre csak őrlödök. Mit mondhatnék? Mit kellene mondanom? Mivel vágom el magamat örökre az előremeneteltől? Mivel segíthetek testvéremnek, barátaimnak? Mi történt egyáltalán?
 Az elmém, mint egy vihartépte karavella hánykolódik a súlyos gondolatok tengerén.

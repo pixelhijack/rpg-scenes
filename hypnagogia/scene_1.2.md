@@ -93,6 +93,6 @@ Megrázom magam, minden idegszálammal arra koncentrálok, hogy megtaláljam a s
 
 @oculus @gladius @valoris @vortis
 
-…a helyzet pattanásig feszül, a tömegben nyugtalanság fut végig, vihar előtti szél fuvallata érezhető a tiszta ég ellenére, ami a kikötőtől ilyen távol kissé szokatlan. Biztosak vagytok benne, hogy a prédikátort azonnal el kell távolítani a pulpitusául szolgáló emelvényről, mert nem is máglyát érdemel, hanem még annál is rosszabbat, billogozást és száműzetést az Emléktemető Zátonyokra. Naevius Columella, a Légió sixtusa türelmetlen pillantásokat küld a tömeg mögött a Citadella Lépcső aljából, a tér széléről, mögötte a 328-asok toporognak.
+### …a helyzet pattanásig feszül,
 
-[ Kivételesen NE ERRE, hanem az egyéni emailekre válaszoljatok most csak, bármilyen sorrendben. Ha mindenki válaszolt, a jelenet folytatódik. ]
+a tömegben nyugtalanság fut végig, vihar előtti szél fuvallata érezhető a tiszta ég ellenére, ami a kikötőtől ilyen távol kissé szokatlan. Biztosak vagytok benne, hogy a prédikátort azonnal el kell távolítani a pulpitusául szolgáló emelvényről, mert nem is máglyát érdemel, hanem még annál is rosszabbat, billogozást és száműzetést az Emléktemető Zátonyokra. Naevius Columella, a Légió sixtusa türelmetlen pillantásokat küld a tömeg mögött a Citadella Lépcső aljából, a tér széléről, mögötte a 328-asok toporognak.
