@@ -18,7 +18,7 @@ Praetor Oculus rövid parancsszóval elküld titeket a kvártélyotokba: pakolja
 
 @oculus
 
-# Praetor Oculus:
+### Praetor Oculus:
 
 Miközben levetkezem a saját izzadtságomtól és a tömeg csürhéjétől bűzlő gúnyám, félredobom hasztalan kardom és felszerelésem. Ahogy esnek a darabok, a csattanásokat ütemesen felváltva dobban lábam trappolva, a vesztesek letargikus tempójában.
 
@@ -46,3 +46,12 @@ Praetor vagyok. A corpusomért vagyok. A fellegvárért vagyok. A légióért va
 Senki fontos nem halt meg, nem sérült meg, a prédikátor beazonosítva. Nem vereség, nem kell gyászolni. A tanulságok órája következik.
 
 Aki pedig nem tanul, az bűnhődni fog.
+
+@oculus
+
+### Praetor Oculus a szobájában
+
+Ahogy végre székedben várakozol nagy tölgyfa íróasztalod mögött, az inkvizítori kiképzés rutinjaként mormolod magadban a jól ismert fohászt ("O Domine, dona mihi animi aequitatem, ut quae mutare non possim, clementer feram; ac fortitudinem, ut quae mutare possim, mutem; ac sapientiam, ut haec ab illis discernam"), és érzed, ahogy kudarcod első felindulása, mint vad árhullám, már át is vonult feletted. Megedzett már az élet, hogy tudd, nem mutatkozhatsz így a corpusod előtt, nem láthatják rajtad a gyengeséget egyetlen pillanatra sem. Mégis, viharos gondolataid zavaros utóhullámai csak nem hagynak békét, fejedbe férkőznek a praetori felelősség magányos kétségei: kiben bízhatsz, ha te felelsz értük?
+Hiszen a corpus ifjú tagjaival nem tárgyalhatod meg bizonytalanságaid! Domus Excilioban, aki viszont jóval régebbóta ismeri őket, mint te, akit csak most neveztek ki frissen az élükre? Vagy Naevius Columellában, a sixtusban, aki felé neked is jelentened kell, aki ha a Légió tagja is, mégiscsak feljebbvalód? A septimusban, ha Columella ellened vall? A Seraphim Mortisokban, akik minden lépésedet árgus szemekkel figyelik az Inkvizíción belül? A konklávé, akikhez szupervízióért fordulhatsz és kell is fordulnod időről időre - bűnbánat formájában? Tanácsot, segítséget, vagy csak megértést kitől remélhetsz? Csak az Úrtól, úgy tűnik. És ha bajba kerülsz, ki áll ki érted?
+
+Milyen magányos lét a praetori, és milyen nehéz a felelősség súlya...!
