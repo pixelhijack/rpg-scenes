@@ -24,3 +24,7 @@ Meggyőződök róla, hogy valóban csak Valoris és Gladius hallhatja amit mond
 Ami sokkal jobbban aggaszt, hogy nem tudom, miféle játékot űzöl. Én nem láttam jelét a Praetor tétlenségének."
 Egyre ingerültebb hangnemben folytatom, de mindvégig próbálom visszafogni az érzelmeimet és a hangerőt:
 "Kérlek azonban, magyarázd el, miért fedted fel magad idejekorán. Veszélybe sodortad a küldetést és veszélybe sodortál minket is. Ha az Úr nem segít meg minket most könnyen lehet, hogy a prédikátor az utcákat járná, szavaival tovább terjesztve a fekélyt, ránk pedig még sötétebben vetülne a gyanakvás árnyéka. Sajnos azt kell mondanom, hogy nem alaptalanul. Mi történt valójában?"
+
+### Interlude:
+
+Miután a vacsoraidőt az Asmodeus Kapunál töltöttétek és farkaséhesek vagytok, Gladius közben magára vállalta a feladatot míg Valoris és Vortis folytott vitába keveredik, és elszaladt az immár sötét nagycsarnok kantinjába kicsempészni egy kis kétszersültet a corpusnak így az éjszakai órán, ami bocsánatos bűnnek számít. Most izgatottan suttogva meséli amit ezen a rövid kitérőn tapasztalt: nagy a mozgolódás, találkozott a 328-asok több, hasonlóan éhes légiósával a fáklyák alatt. Izgatottan meséli, mindenféle szóbeszédek járják: _"Sergio mester kínvallatása most is zajlik, mindenképpen eretnek volt, de az Ellenállás már biztosra mondhatóan a Fellegvárba is beszivárgott és az Inkvizíció tagjai között is felüthette a fejét, és pihenjetek ameddig lehet, mert rajtaütést terveznek a házánál hajnalban vagy még talán ma éjjel, ki tudja mekkora haderőt vezényelnek ki"._
