@@ -37,6 +37,8 @@ Hosszúak voltak a kiképzésetek évei, a Fellegvár Légionáriusoktól és a 
 
 _Hajnal van, a rajtaütést elindító parancsig még van talán pár órátok. Mit tesztek?_
 
+![Hypnagogia - Déia](https://raw.githubusercontent.com/pixelhijack/rpg-scenes/master/hypnagogia/images/cover.jpg "Hypnagogia - Déia")
+
 @oculus @gladius @valoris @vortis @excilio
 
 ### Praetor Oculus:
