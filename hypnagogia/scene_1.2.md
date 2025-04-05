@@ -31,6 +31,8 @@ Az Asmodeus Kapunál az agórán tényleg példátlan gyülekezet kavarog, vás�
 
 A tömeg óriási, egyelőre nyugtalan hangyabolyhoz hasonlóan kavarog, zúg és sutyorog, annyian kíváncsiak a saját zengő szólamaitól megrészegült, tekintetét és karjait az egek felé vető őrült prédikátor szavaira, hogy a tér túloldalán az Asmodeus Kapu mindkét oldalán álldogálnak a vándorkereskedők, a kikötői matrózok élelmiszerszállítmányokkal, a szekerek türelmetlen kocsisokkal, munkásokkal, alsóvárosi nyikhajokkal akik a kapu két oldalán még megtűrtek, és rengeteg felsővárosi polgárral a felsőbb utcákból akik máskülönben nem vegyülnének erre.
 
+![Hypnagogia - Agora](https://raw.githubusercontent.com/pixelhijack/rpg-scenes/master/hypnagogia/images/agora.png "Hypnagogia - Agora")
+
 @oculus
 
 _Feszülten nézel körbe az óriási tömeg közepén, őszintén szólva nagyon nem tetszik ez a helyzet neked._

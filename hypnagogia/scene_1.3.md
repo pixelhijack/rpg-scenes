@@ -55,3 +55,5 @@ Ahogy végre székedben várakozol nagy tölgyfa íróasztalod mögött, az inkv
 Hiszen a corpus ifjú tagjaival nem tárgyalhatod meg bizonytalanságaid! Domus Excilioban, aki viszont jóval régebbóta ismeri őket, mint te, akit csak most neveztek ki frissen az élükre? Vagy Naevius Columellában, a sixtusban, aki felé neked is jelentened kell, aki ha a Légió tagja is, mégiscsak feljebbvalód? A septimusban, ha Columella ellened vall? A Seraphim Mortisokban, akik minden lépésedet árgus szemekkel figyelik az Inkvizíción belül? A konklávé, akikhez szupervízióért fordulhatsz és kell is fordulnod időről időre - bűnbánat formájában? Tanácsot, segítséget, vagy csak megértést kitől remélhetsz? Csak az Úrtól, úgy tűnik. És ha bajba kerülsz, ki áll ki érted?
 
 Milyen magányos lét a praetori, és milyen nehéz a felelősség súlya...!
+
+![Hypnagogia - Cathedral](https://raw.githubusercontent.com/pixelhijack/rpg-scenes/master/hypnagogia/images/cathedral.jpg "Hypnagogia - Cathedral")

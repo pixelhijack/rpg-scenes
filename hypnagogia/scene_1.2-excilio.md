@@ -37,3 +37,5 @@ Még kiveszed Naevius Columella, a Légió sixtusát ahogy a Citadella Lépcső 
 Tenyered izzad ahogy tehetetlen idegességgel lesed, mi fog történni a következő percekben.
 
 Biztos vagy benne, hogy a prédikátort azonnal el kell távolítani a pulpitusáról, mert nem is máglyát érdemel, hanem még annál is rosszabbat, billogozást és száműzetést az Emléktemető Zátonyokra, de legalábbis azonnal el kellene hallgattatni, mert láthatóan olyan dolgokat fecseg, ami az Ellenállást is kompromittálhatja. Nem is érted, mit akar, kinek az oldalán állhat, de azt a zsigereid mélyén érzed, hogy a következő pillanatokban valaminek történnie kell.
+
+![Hypnagogia - Agora](https://raw.githubusercontent.com/pixelhijack/rpg-scenes/master/hypnagogia/images/agora.png "Hypnagogia - Agora")
