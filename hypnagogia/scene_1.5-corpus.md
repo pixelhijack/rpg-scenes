@@ -1,6 +1,6 @@
 @gladius @valoris @vortis
 
-# Kvártélyotokban, szűk órával éjfél előtt
+# Első fejezet, ötödik rész: kvártélyotokban, szűk órával éjfél előtt
 
 _Kedves corpus, tisztelt ifjú inkvizítorok!_
 

@@ -1,6 +1,6 @@
 @oculus @valoris @vortis @excilio @gladius
 
-# Praetor Oculus szobájában
+# Első fejezet, negyedik rész: Praetor Oculus szobájában
 
 Mikor beléptek Praetor Oculus szobájába, ő a nagy tölgyfa asztala mögött ül és mélyen szemetekbe néz. Rövid biccentéssel nyugtázza érkezteteket. Amikor szátok nyílna, csak annyit mond: "Mindenkit megvárunk, addig állj oda."
 

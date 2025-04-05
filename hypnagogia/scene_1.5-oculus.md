@@ -1,6 +1,6 @@
 @oculus
 
-# Praetor Oculus, Naevius Columella, a sixtus szobájában
+# Első fejezet, ötödik rész: Praetor Oculus, Naevius Columella, a sixtus szobájában
 
 A kerengő végében, a sötétben tekergő szűk csigalépcső átvezet a Fellegvár felsőbb szintjére, ahonnan kilátás nyílik a belső udvar kútjára és görbén kuporgó babérfáira. A most megerősített dupla esti őrjárat légiósai befordulnak a sarkon - ez a méhkas sosem alszik igazán. Egy pillanatra felnézel a hízó holdra, ami erős fénnyel ragyogja be az éjszakát, és némán fohászt mormolsz lelked lecsendesítésére és elméd kitartására. Úgy érzed, ez a nap már mindent elhozott, amit csak az Úr izgalomként, bosszúságként és a felelősség terheként csak rád szabhatott, és egyáltalán nem hiányzik még egy olyan kihívás, ami egyértelmű feszültséget csempész a szívedbe: Naevius Columella, a 328-asok sixtusa vasmarkúan kemény elöljáródként várja, hogy összegezd neki a corpusodtól elhangzottakat.
 
